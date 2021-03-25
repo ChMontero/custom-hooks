@@ -1,0 +1,16 @@
+.todo-item {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.todo-item h2 {
+  margin-right: 20px;
+}
+
+.todo-item div {
+  background-color: #e32636;
+  color: #ffffff;
+  padding: 5px 10px;
+  cursor: pointer;
+}
